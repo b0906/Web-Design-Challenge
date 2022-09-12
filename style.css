@@ -1,0 +1,83 @@
+.navbar {
+  padding: 0px 0px 0;
+}
+.navbar .navbar-brand.custom {
+  color: white;
+  background: #09726e;
+}
+.row {
+  background-color: white;
+}
+h3, h4 {
+  color: #09726e;    
+}
+#imghome {
+float: left;
+width: 250px;
+height: 200px;
+margin-right: 5px;
+}
+.border-vis {
+border: 2px solid;
+border-color: #09726e; 
+}
+.nav-pills .pill-1 .nav-link:not(.active) {
+background-color:  white;
+color: gray;
+}
+.nav-pills .pill-2 .nav-link:not(.active) {
+background-color:  white;
+color: gray;
+}
+.nav-pills .pill-3 .nav-link:not(.active) {
+background-color:  white;
+color: gray;
+}
+.nav-pills .pill-4 .nav-link:not(.active) {
+background-color:  white;
+color: gray;
+}
+.nav-pills .pill-5 .nav-link:not(.active) {
+background-color:  white;
+color: gray;
+}
+.nav-pills .pill-1 .nav-link {
+background-color:  #09726e;
+color: white;
+}
+.nav-pills .pill-2 .nav-link {
+background-color:  #09726e;
+}
+.nav-pills .pill-3 .nav-link {
+background-color:  #09726e;
+color: white;
+}
+.nav-pills .pill-4 .nav-link {
+background-color:  #09726e;
+color: white;
+}
+.nav-pills .pill-5 .nav-link {
+background-color:  #09726e;    
+color: white;
+}
+.tab-content  {
+overflow: auto;
+} 
+@media (max-width: 5px) {
+  nav.navbar {
+    background: #09726e;
+  }
+  .navbar .navbar-toggler,
+  .navbar .navbar-toggler:hover,
+  .navbar .navbar-togglere:focus {
+    border-color: lightgrey;
+  }
+ .navbar .navbar-toggler .navbar-toggler-icon {
+    background-color: whitesmoke;
+  }
+ .navbar .nav-item {
+    color:#09726e;
+    background:  white;
+  }
+}
+
