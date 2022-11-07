@@ -40,7 +40,7 @@ The website consist of seven pages in total, including:
 
 
 
-
+Link: https://b0906.github.io/leaflet-challenge/Leaflet-Part-1/templates/
 
 
 Deployed app : http://127.0.0.1:5500/maxtemp.html
